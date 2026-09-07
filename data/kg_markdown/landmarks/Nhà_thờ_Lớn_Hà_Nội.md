@@ -1,0 +1,62 @@
+---
+name: Nhà thờ Lớn Hà Nội
+aliases: ["Nhà thờ chính tòa Hà Nội", "Nhà thờ chính tòa Thánh Giuse", "Nhà thờ Thánh Giuse"]
+type: Landmark
+phong_cách_kiến_trúc: Kiến trúc Pháp
+xây_dựng_năm: 1678
+tọa_lạc: thành phố Hà Nội
+source: https://vi.wikipedia.org/wiki/Nhà_thờ_Lớn_Hà_Nội
+---
+
+## Relations
+- (Nhà thờ Lớn Hà Nội, tên_khác, Nhà thờ chính tòa Hà Nội)
+- (Nhà thờ Lớn Hà Nội, tên_khác, Nhà thờ chính tòa Thánh Giuse)
+- (Nhà thờ Lớn Hà Nội, thuộc_quần_thể, Tổng giáo phận Hà Nội)
+- (Nhà thờ Lớn Hà Nội, tôn_giáo, Công giáo)
+- (Nhà thờ Lớn Hà Nội, phong_cách_kiến_trúc, Kiến trúc Pháp)
+- (Nhà thờ Lớn Hà Nội, xây_dựng_năm, 1888)
+- (Nhà thờ Lớn Hà Nội, xây_dựng_bởi, Giáo hội Công giáo)
+- (Nhà thờ Lớn Hà Nội, xây_dựng_năm, 1884)
+- (Nhà thờ Lớn Hà Nội, xây_dựng_năm, 1678)
+- (Nhà thờ Lớn Hà Nội, trùng_tu_năm, 1883)
+- (Nhà thờ Lớn Hà Nội, trùng_tu_năm, 1886)
+- (Nhà thờ Lớn Hà Nội, sự_kiện, mở xổ số để quyên góp)
+- (Nhà thờ Lớn Hà Nội, sự_kiện, được chính quyền bảo hộ Pháp chấp thuận mở xổ số)
+- (Nhà thờ Lớn Hà Nội, sự_kiện, được xây dựng bằng gạch)
+- (Nhà thờ Lớn Hà Nội, sự_kiện, tốn phí khoảng 200.000 franc Pháp)
+- (Nhà thờ Lớn Hà Nội, sự_kiện, quyên góp được khoảng 30.000 franc Pháp)
+- (Nhà thờ Lớn Hà Nội, tên_khác, Nhà thờ Thánh Giuse)
+- (Nhà thờ Lớn Hà Nội, tọa_lạc, thành phố Hà Nội)
+- (Nhà thờ Lớn Hà Nội, đặc_điểm, ngai tòa của Tổng giám mục)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Giám mục)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Tổng đốc Nguyễn Hữu Độ)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Linh mục Giuse Tạ Minh Quý)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Linh mục chính xứ)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, tổng giáo phận)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, chính quyền bảo hộ Pháp)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, tài trợ)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, tài chính)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, sự kiện)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, tài liệu)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, chùa Báo Thiên)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, tháp Báo Thiên)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Vương Thông)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, tài liệu Văn khố Hội Thừa sai Paris)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, sách Từ điển Đường phố Hà Nội)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Đại học Hà Nội)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, sách La vie de Mgr. Puginier)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, tài liệu của André Masson)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, tiểu thuyết lịch sử Bóng nước Hồ Gươm)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Chu Thiên)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Lê Mạnh Thát)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Bùi Thiết)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Tự điển Hà Nội địa danh)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Thống sứ Bắc Kỳ Raoul Bonnal)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, cuốn Au Tonkin)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, tổng đốc Nguyễn Hữu Độ)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Giáo hoàng Innôcentê XI)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, thánh quan thầy)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, Đông Á)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, thời Lê Trung Hưng)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, tang thương ngẫu lục)
+- (Nhà thờ Lớn Hà Nội, liên_quan_đến, đất họp chợ)

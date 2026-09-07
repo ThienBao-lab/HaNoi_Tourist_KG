@@ -1,0 +1,8 @@
+networkx>=3.0
+sentence-transformers>=2.2
+numpy
+pyyaml
+requests
+transformers>=4.40
+accelerate
+torch

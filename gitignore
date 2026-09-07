@@ -1,0 +1,34 @@
+# Graph binary (quá lớn, lưu trên Kaggle/Google Drive)
+*.pkl
+
+# Raw data (reproduce được từ scripts)
+data/wiki_raw/
+data/triplets_raw/
+data/triplets_food/
+data/food_raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+venv/
